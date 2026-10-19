@@ -12,3 +12,6 @@ Saved/
 *.sdf
 *.VC.db
 *.VC.opendb
+.DS_Store
+desktop.ini
+*.wav
